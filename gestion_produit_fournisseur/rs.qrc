@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>rs/add.png</file>
+        <file>rs/adgif.gif</file>
+        <file>rs/ajoutempback.jpg</file>
+        <file>rs/delete.png</file>
+        <file>rs/enter.png</file>
+        <file>rs/log.png</file>
+        <file>rs/logo.png</file>
+        <file>rs/Macarons.jpg</file>
+        <file>rs/mailing.png</file>
+        <file>rs/off.png</file>
+        <file>rs/on.png</file>
+        <file>rs/retour.png</file>
+        <file>rs/search.png</file>
+        <file>rs/trie.png</file>
+        <file>rs/update.png</file>
+        <file>rs/qr-code.jpg</file>
+    </qresource>
+</RCC>
